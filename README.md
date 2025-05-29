@@ -1,4 +1,4 @@
-# studentsform
+# Studentsform
 
 # 🎓 Student Registration Form
 
@@ -18,8 +18,7 @@ A responsive and modern student registration form built using **HTML5**, **CSS**
 - **Tailwind CSS** – Utility-first CSS framework for rapid UI development
 - **JavaScript** – Handles form validation and interactivity
 
-## 📷 Preview
-![image](https://github.com/user-attachments/assets/b54bea6e-24ba-4169-a5d0-72e52dba8d8e)
+
 
 
 
