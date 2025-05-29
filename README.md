@@ -18,6 +18,7 @@ A responsive and modern student registration form built using **HTML5**, **CSS**
 - **Tailwind CSS** – Utility-first CSS framework for rapid UI development
 - **JavaScript** – Handles form validation and interactivity
 
+![image](https://github.com/user-attachments/assets/cf5bb6ab-6fb9-47ab-89b4-ea79793890ca)
 
 
 
